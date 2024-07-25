@@ -7,7 +7,7 @@ This module
 ([`github.com/golang/protobuf`](https://pkg.go.dev/mod/github.com/golang/protobuf))
 contains Go bindings for protocol buffers.
 
-It has been superseded by the
+It has been superseded by the      
 [`google.golang.org/protobuf`](https://pkg.go.dev/mod/google.golang.org/protobuf)
 module, which contains an updated and simplified API,
 support for protobuf reflection, and many other improvements.
